@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.jcg.maven</groupId>
     <artifactId>helloworld</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <version>2.0</version>
     <name>hello world example</name>
  </project>
